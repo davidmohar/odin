@@ -1,2 +1,2 @@
-# odin
+# Odin
 Odin Linux tracer for testing
